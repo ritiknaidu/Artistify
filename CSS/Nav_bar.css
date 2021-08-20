@@ -1,0 +1,54 @@
+.nav-section {
+    padding-left: 55px;
+    padding-right: 72px;
+    background: #08192d;
+}
+.site-logo img{
+    width:55%;
+}
+.nav-right {
+    font-size: 18px;
+}
+span i{
+    color: #ffffff;
+    font-size: 25px;
+}
+span i:hover{
+    color: #f11961;
+}
+span:focus{
+    outline: none;
+}
+a {
+    text-decoration: none;
+    background-color: transparent;
+}
+.nav-right a, .nav-right span {
+    font-size: 18px;
+    color: #ffffff;
+    margin: 0 10px;
+}
+.nav-right .login:hover {
+    text-decoration: none;
+    color: #fc0254;
+}
+.nav-right .register {
+    color: #fc0254;
+    margin-right: 0;
+}
+.nav-right .register:hover {
+    text-decoration: none;
+    border-bottom: 2px solid #fc0254;
+    padding-bottom: 5px;
+}
+.main-menu a{
+    text-decoration: none;
+    color:#ffffff;
+}
+.main-menu a:hover {
+    padding-bottom: 7px;
+    border-bottom: 2px solid #fc0254;
+}
+.main-menu li {
+    color: #ffffff;
+}

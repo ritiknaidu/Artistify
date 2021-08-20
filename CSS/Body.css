@@ -1,0 +1,42 @@
+#body-1 {
+    background: #0a183d;
+    height: 760px;
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+.main-text {
+    color: #ffffff;
+}
+.main-text .site-btn {
+    position: relative;
+    top: 20px;
+    margin-bottom: 20px;
+}
+.main-text h2 {
+    font-size: 70px;
+}
+.main-text h2 span {
+    color: #fc0254;
+}
+.main-text p {
+    color: #ffffff;
+    font-size: 30px;
+    margin-bottom: 30px;
+    position: relative;
+}
+.site-btn {
+    display: inline-block;
+    font-weight: 700;
+    min-width: 250px;
+    padding: 23px 20px;
+    border-radius: 50px;
+    text-transform: uppercase;
+    background: #fc0254;
+    color: #ffffff;
+    cursor: pointer;
+    text-align: center;
+}
+.main-text .site-btn:hover {
+    text-decoration: none;
+    color: #ffffff;
+}

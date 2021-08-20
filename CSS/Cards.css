@@ -1,0 +1,32 @@
+.card-container {
+    text-align: center;
+    height: 500px;
+    padding-top: 40px;
+}
+.card {
+    border: none;
+    border-radius: 20%;
+    background-size: cover;
+    height: 300px;
+}
+.photo {
+    background-image: url("https://cdn.pixabay.com/photo/2017/11/12/08/56/background-2941800_960_720.jpg");
+    max-width: 100%;
+}
+.music {
+    background-image: url("https://cdn.pixabay.com/photo/2015/11/22/19/04/crowd-1056764__340.jpg");
+    max-width: 100%;
+}
+.story {
+    background-image: url("https://images.unsplash.com/photo-1524668951403-d44b28200ce0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+    max-width: 100%;
+}
+.art {
+    background-image: url("https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831__340.jpg");
+    max-width: 100%;
+}
+#card-names h5{
+    color: #0a183d;
+    text-align: center;
+    margin-top: 20px;
+}
